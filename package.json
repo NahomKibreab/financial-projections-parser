@@ -4,7 +4,7 @@
   "description": "Algorithm to parse financial projections and extract business assumptions and relationships",
   "scripts": {
     "build": "tsc",
-    "simple": "ts-node index.ts"
+    "start": "ts-node index.ts"
   },
   "author": "Financial Projections Parser",
   "license": "MIT",
